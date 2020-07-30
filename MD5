@@ -1,0 +1,12 @@
+7af9f70e02568591b3db31f8c37a1638 *DESCRIPTION
+277b7e09d3403f8dbcdd2f88d8605424 *NAMESPACE
+fabdccdaf45c23104ee2b68a93bf9fe3 *R/bwgs_gilles.R
+4350f5bd50a8e2e99e84e7ed1687bfa6 *R/cross_validation.R
+3d92944091c77f282e5881f1c7f64aa1 *R/import_packages.R
+b3aa7f94d28d4a1ce3da06e434f97381 *R/inra47k.R
+167c093bcad9492e44e452e5b3dc5f74 *R/predict.R
+7b70bd23887ff830239e9e0c054b2056 *README.md
+d123e30775c7ccfb189a6692c1223eab *data/inra.rda
+72703b74346049d2dfae6603c78eb830 *man/bwgs.cv.Rd
+3ec71df55bc94607a01dba81123e8750 *man/bwgs.predict.Rd
+990c1309708a0acfbc12da0d5045d66a *man/inra47k.Rd
