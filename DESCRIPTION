@@ -1,7 +1,7 @@
 Package: BWGS
 Type: Package
 Title: BreedWheat Genomic Selection Pipeline
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(person("Gilles", "Charmet", email = "gilles.charmet@inra.fr", role = "aut"), 
   person("Louis Gautier", "Tran", role = "aut"),
   person("Bangyou", "Zheng", email = "bangyou.zheng@csiro.au", role = "cre"))
@@ -13,15 +13,15 @@ License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 3.5.0)
-Imports: rrBLUP, BGLR, glmnet, randomForest, brnn, e1071
+Imports: rrBLUP, BGLR, glmnet, randomForest, brnn, e1071, stringi
 URL: https://github.com/byzheng/BWGS
 BugReports: https://github.com/byzheng/BWGS/issues
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-07-25 14:43:40 UTC; zhe00a
+Packaged: 2021-09-09 06:00:47 UTC; zhe00a
 Author: Gilles Charmet [aut],
   Louis Gautier Tran [aut],
   Bangyou Zheng [cre]
 Maintainer: Bangyou Zheng <bangyou.zheng@csiro.au>
 Repository: CRAN
-Date/Publication: 2020-07-30 11:02:13 UTC
+Date/Publication: 2021-09-09 06:10:02 UTC
